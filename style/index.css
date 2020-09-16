@@ -743,7 +743,7 @@ label{
     /* THIRD-SECTION */
     
     .slide-img{
-        position: absolute;
+        position: relative;
         width: inherit;
     }
     .third-sect-pareh .third-pareh{
