@@ -180,7 +180,7 @@ body{
 }
 .drop-down-nav-link{
     background: linear-gradient(332deg,#939598, #fd1d1d, #fd1d1d);
-    border-radius: 25px;
+    border-radius: 5px;
     margin-top: 7px;
     text-align: center;
     transition: 0.5s;
@@ -667,6 +667,9 @@ label{
 @media (max-width:520px){
 
     /* NAVBAR*/
+    .preview-Facile_Infotech-datalabs{
+        overflow-x: hidden;
+    }
     .head-navbar .nav-sty-bg-lights{
         margin: 0;
     }
@@ -745,9 +748,9 @@ label{
         font-size: 15px;
     }
     .slide-img .company-logo-person-logo{
-        width: 100px;
-        top: 100px;
-        left: 122px;
+        width: 140px;
+        top: 132px;
+        left: 155px;
     }
     /* END */
 
@@ -761,17 +764,19 @@ label{
         padding-top: 24px;
     }
     .address .address-logo{
-        top: 138px;
+        width: 150px;
+        top: 173px;
         left: 20px;
     }
     .address .add-span-2{
-        top: 141px;
-        left: 141px;
+        top: 187px;
+        left: 219px;
         font-size: 15px;
     }
     .address .add-span-1{
-        top: 89px;
-        left: 155px;
+        top: 117px;
+        left: 230px;
+        font-size: 10px;
     }
     .address-string{
         padding: 10px;
