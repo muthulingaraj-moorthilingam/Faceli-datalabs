@@ -464,6 +464,7 @@ body{
 }
 .slide-img{
     width: inherit;
+    position: relative;
 }
 .third-silde-imgs{
     width: inherit;
@@ -740,6 +741,11 @@ label{
     /* END */
 
     /* THIRD-SECTION */
+    
+    .slide-img{
+        position: absolute;
+        width: inherit;
+    }
     .third-sect-pareh .third-pareh{
         margin: 0;
         padding: 10px;
@@ -750,7 +756,7 @@ label{
     .slide-img .company-logo-person-logo{
         width: 140px;
         top: 132px;
-        left: 155px;
+        left: 141px;
     }
     /* END */
 
